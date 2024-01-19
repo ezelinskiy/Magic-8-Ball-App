@@ -13,4 +13,4 @@ Make a Magic 8 Ball app. You can ask the app to make all your hard decisions! Wi
 
 ## Example what the application do
 
-![Quizzler app example of work.](Documentation/magic8ball_screenrecord.gif)
+![Magic 8 Ball app example of work.](Documentation/magic8ball_screenrecord.gif)
